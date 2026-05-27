@@ -1,0 +1,14 @@
+C:\Users\wgerb\Desktop\‎\New folder\bin\Debug\net8.0-windows\WinFormsApp.exe
+C:\Users\wgerb\Desktop\‎\New folder\bin\Debug\net8.0-windows\WinFormsApp.deps.json
+C:\Users\wgerb\Desktop\‎\New folder\bin\Debug\net8.0-windows\WinFormsApp.runtimeconfig.json
+C:\Users\wgerb\Desktop\‎\New folder\bin\Debug\net8.0-windows\WinFormsApp.dll
+C:\Users\wgerb\Desktop\‎\New folder\bin\Debug\net8.0-windows\WinFormsApp.pdb
+C:\Users\wgerb\Desktop\‎\New folder\obj\Debug\net8.0-windows\WinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wgerb\Desktop\‎\New folder\obj\Debug\net8.0-windows\WinFormsApp.AssemblyInfoInputs.cache
+C:\Users\wgerb\Desktop\‎\New folder\obj\Debug\net8.0-windows\WinFormsApp.AssemblyInfo.cs
+C:\Users\wgerb\Desktop\‎\New folder\obj\Debug\net8.0-windows\WinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\wgerb\Desktop\‎\New folder\obj\Debug\net8.0-windows\WinFormsApp.dll
+C:\Users\wgerb\Desktop\‎\New folder\obj\Debug\net8.0-windows\refint\WinFormsApp.dll
+C:\Users\wgerb\Desktop\‎\New folder\obj\Debug\net8.0-windows\WinFormsApp.pdb
+C:\Users\wgerb\Desktop\‎\New folder\obj\Debug\net8.0-windows\WinFormsApp.genruntimeconfig.cache
+C:\Users\wgerb\Desktop\‎\New folder\obj\Debug\net8.0-windows\ref\WinFormsApp.dll
